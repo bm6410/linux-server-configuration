@@ -23,7 +23,7 @@ Summary of configurations made:
 
 * The instance can be found at 18.237.111.102.  
 * The ssh port is configured to 2200
-* The web application can be found at stickandburn.com.
+* The web application can be found at [stickandburn.com](stickandburn.com).
 
 
 ## Built With
